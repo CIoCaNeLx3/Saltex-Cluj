@@ -5400,7 +5400,7 @@ nav .cart-wrapper.open {
         z-index: -1;
         content: "";
         display: block;
-        background-color: #072EF8;
+        background-color: #f4eee0;
         left: 50%;
         top: 50%;
         position: absolute;
@@ -5426,7 +5426,7 @@ nav .cart-wrapper.open {
         border: 0;
     }
     .history .history-title {
-        background-color: #072EF8;
+        background-color: #f4eee0;
         color: white;
         display: inline-block;
         padding: 15px;
